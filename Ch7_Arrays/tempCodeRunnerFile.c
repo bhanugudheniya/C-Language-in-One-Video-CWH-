@@ -1,3 +1,6 @@
- // for(int i = 0; i<=3; i++){
-    //     printf("%d\n", marks[i]);
+  // for (int i = 0; i < student; i++){
+    //     for (int j = 0; j < subject; j++){
+    //         printf("Marks of student %d in subject %d is : %d\n", i+1, j+1, marks[i][j]);
+    //     }
+        
     // }
